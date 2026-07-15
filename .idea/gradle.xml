@@ -13,15 +13,6 @@
         </option>
         <option name="myGradleHome" value="C:\Users\Public\wpilib\2026\jdk" />
       </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/test-project" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/lib" />
-            <option value="$PROJECT_DIR$/test-project" />
-          </set>
-        </option>
-      </GradleProjectSettings>
     </option>
   </component>
 </project>
